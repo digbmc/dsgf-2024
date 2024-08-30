@@ -10,3 +10,12 @@ September 5, 2024
 ## Meeting notes
 
 Note-taker:
+
+### Action items
+
+---
+[Next >>>]()
+
+[Return to syllabus](../syllabus.md)
+
+[Home](../README.md)

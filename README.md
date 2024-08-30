@@ -1,6 +1,6 @@
-# dsgf-2024
+# Digital Scholarship Graduate Fellows
 
-Repository for Digital Scholarship Graduate Fellows, AY 2024-2025
+Repository for Digital Scholarship Graduate Fellows at Bryn Mawr College, AY 2024-2025.
 
 Led by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (Educational Technology Specialist)
 
@@ -8,6 +8,9 @@ Led by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (E
 
 - [Syllabus](syllabus.md)
 - [Expectations](expectations.md)
+- Resources
+  - [SMART Goals](resources/smart-goals.md)
+  - [Markdown Guide](resources/markdown-guide.md)
 
 ## Session agendas and notes
 
