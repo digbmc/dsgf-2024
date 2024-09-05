@@ -2,16 +2,16 @@
 
 ## Tentative schedule
 
-| ID  | Session                                     | Date   |
-| --- | ------------------------------------------- | ------ |
-| 1   | Intro                                       | 9/5/24 |
-| 2   | Computational thinking + start command line |        |
-| 3   | GitHub Pages                                |        |
-| 4   | HTML/CSS                                    |        |
-| 5   | Mapping/GIS                                 |        |
-| 6   | 3D Scanning!                                |        |
-| 7   | Digital exhibits                            |        |
-| 8   | Project management                          |        |
+| ID  | Session                                     | Date    |
+| --- | ------------------------------------------- | ------  |
+| 1   | Intro                                       | 9/5/24  |
+| 2   | Computational thinking + start command line | 9/19/24 |
+| 3   | GitHub Pages                                | 10/3/24 |
+| 4   | HTML/CSS                                    | 10/24/24|
+| 5   | Mapping/GIS                                 | 11/7/24 |
+| 6   | 3D Scanning!                                | 11/21/24|
+| 7   | Digital exhibits                            | 1/23/25 |
+| 8   | Project management                          | 2/6/25  |
 
 ## Session options
 
@@ -41,6 +41,7 @@
 ### 3D Modeling & Scanning
 - 3D computer graphics basics
 - 3D scanning
+- 3D printing
 
 ### Digital Exhibits
 - Digital collections and metadata
@@ -63,13 +64,21 @@
 - Machine learning basics
 - Voyant tools & Constellate
 
-### Critical Making
-
-### Web Design & Professional Websites
-
-### Creative Coding
-
 ### Sustainability & preservation
 - Digital preservation
 - Static websites
 - Environmental impact of web
+  
+### Digital Pedagogy
+- How to plan to use tech in teaching
+- EdTech resources 
+  
+### Critical Making
+- Avaialble machines
+- Projects involving critical making 
+
+### Web Design & Professional Websites
+- Available sites
+- Purpose of sites 
+
+
