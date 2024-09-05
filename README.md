@@ -15,4 +15,4 @@ Led by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (E
 ## Session agendas and notes
 
 - [Introduction](sessions/01-introduction.md) - September 5, 2024
-- [Computational thinking and command line](sessions/02-computational-thinking-command-line.md)
+- [Computational thinking and command line](sessions/02-computational-thinking-command-line.md) - September 19, 2024
