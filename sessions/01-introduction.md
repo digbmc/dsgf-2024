@@ -16,7 +16,7 @@ Note-taker: Jeff
 ## Introductions 
 - Name, specialization, what you want to learn more about, favorite piece of trivia
 - Hilde
-- Lala
+- Lala: 3rd year in classical archaeology, interested in GIS
 - Illizt
 - Yuzhu
 
