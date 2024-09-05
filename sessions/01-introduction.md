@@ -21,7 +21,7 @@ Note-taker: Jeff
 - Yuzhu: 3rd year in classical archaeology (focus on medieval Chinese art), is interested in digital reconstructions of ancient sites and artifacts, (trivia provided by missed by note-tacker, alas)
 
 ### Program overview & logistics
-- Expectations
+- [Expectations](/expectations.md)
 - Github  
   - A quick word on [Markdown](https://www.markdownguide.org/basic-syntax/)
 - [Syllabus](/syllabus.md)
