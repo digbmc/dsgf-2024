@@ -32,6 +32,9 @@ Note-taker: Jeff
   - Illizt
   - Yuzhu
 
+### What is digital scholarship
+What is Digital Scholarship? [slides](http://bit.ly/dsgf-2019)
+
 ### Learning plans & SMART goals
 - What do you want to know? What do you want to create or develop?
 - Specific: how will you work towards that goal?
@@ -40,7 +43,19 @@ Note-taker: Jeff
 - Relevant: make sure it's important enough to motivate you
 - Time-based: set reasonable deadlines
 
-### Action items
+### Reminders & Actions Items
+
+-Reminders
+  - [ ] Set up a meeting with Alice via [calendly](https://calendly.com/amcgrath1/) if you want help with learning plans & goals (out during fall break)
+  - [ ] Alice will set up Slack, send Zoom invites to future meetings, etc.
+-Action Items
+  - [ ] Brainstorm 3-4 goals and select the most relevant to draft a SMART goal
+  - [ ] Watch all 6 [Code.org](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) videos on computers
+  - [ ] Email us a bio and headshot for the [DS website](https://digitalscholarship.blogs.brynmawr.edu/people/)
+  - [ ] Join the [slack channel](https://join.slack.com/t/ds-bmc/shared_invite/zt-1gkcbl0i9-Gvv9tTUTkeQ65LvrzwBJOQ) for our group
+  - [ ] Install software
+    - [ ] Text editor: [Visual Studio Code](https://code.visualstudio.com/download)
+    - [ ] For a PC: install git bash [using these instructions](https://gitforwindows.org/)
 
 ---
 [Next >>>](02-computational-thinking-command-line.md)
