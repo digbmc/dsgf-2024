@@ -51,7 +51,7 @@ Digital Scholarship can take many forms. [Here's a brief overview](https://docs.
 - **Action Items**
   - [ ] Brainstorm 3-4 goals and select the most relevant to draft a SMART goal
   - [ ] Watch all 6 [Code.org](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) videos on computers
-  - [ ] Email us a bio and headshot for the [DS website](https://digitalscholarship.blogs.brynmawr.edu/people/)
+  - [ ] Email us a bio and headshot for the [DS website]([https://digitalscholarship.blogs.brynmawr.edu/people/)
   - [ ] Join the [slack channel](https://join.slack.com/t/ds-bmc/shared_invite/zt-1gkcbl0i9-Gvv9tTUTkeQ65LvrzwBJOQ) for our group
   - [ ] Install software
     - [ ] Text editor: [Visual Studio Code](https://code.visualstudio.com/download)
