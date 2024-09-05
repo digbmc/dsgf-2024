@@ -33,7 +33,7 @@ Note-taker: Jeff
   - Yuzhu
 
 ### What is digital scholarship
-Digital Scholarship can take many forms.[Here's a brief overview](https://docs.google.com/presentation/d/1A4anJ6fxnsKBakbk-NtOJ6eI_27kLCe0JFaa3U3tGc0/edit?usp=sharing)
+Digital Scholarship can take many forms. [Here's a brief overview](https://docs.google.com/presentation/d/1A4anJ6fxnsKBakbk-NtOJ6eI_27kLCe0JFaa3U3tGc0/edit?usp=sharing)
 
 ### Learning plans & SMART goals
 - What do you want to know? What do you want to create or develop?
