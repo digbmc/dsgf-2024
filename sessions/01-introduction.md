@@ -17,7 +17,7 @@ Note-taker: Jeff
 - Name, specialization, what you want to learn more about, favorite piece of trivia
 - Hilde: in the art histroy program, works on comtemporary media (e.g., video & film), all bananas are dervied from the Cavendish
 - Lala: 3rd year in classical archaeology, interested in GIS, just found out most Carribean fruits actually orginated in the Philippines 
-- Illizt: 4th year in the classical archaeology program with a focus on metallurgy, is interested in 3D scans of ancient artifiacts, (trivia provided but missed by note-tacker, alas)
+- Illizt: 4th year in the classical archaeology program with a focus on metallurgy, is interested in 3D scans of ancient artifiacts, manga was invented by [Katsushika Hokusai](https://en.wikipedia.org/wiki/Hokusai), the same artist who made [*The Great Wave off Kanagawa*](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa).
 - Yuzhu: 3rd year in classical archaeology (focus on medieval Chinese art), is interested in digital reconstructions of ancient sites and artifacts, (trivia provided but missed by note-tacker, alas)
 
 ### Program overview & logistics
