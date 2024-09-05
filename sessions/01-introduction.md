@@ -24,11 +24,12 @@ Note-taker: Jeff
 - Expectations
 - Github  
   - A quick word on [Markdown](https://www.markdownguide.org/basic-syntax/)
-- Syllabus interests:
-  - Hilde Has an interested in creative coding (e.g., algorithmns used by artists) and digital exhibits (particularly IIIF standards)
-  - Lala: Seconds idea of having a supplemental workshop on creative coding and GIS
-  - Illizt: Has an interest in creative coding,especially on the topic of creating social media bots
-  - Yuzhu: Also in interested in creative coding as well as how to incorporate it into digital pedagogy
+- [Syllabus](/syllabus.md)
+  - Fellow interests
+    - Hilde Has an interested in creative coding (e.g., algorithmns used by artists) and digital exhibits (particularly IIIF standards)
+    - Lala: Seconds idea of having a supplemental workshop on creative coding and GIS
+    - Illizt: Has an interest in creative coding,especially on the topic of creating social media bots
+    - Yuzhu: Also in interested in creative coding as well as how to incorporate it into digital pedagogy
 
 ### What is digital scholarship
 Digital Scholarship can take many forms. [Here's a brief overview](https://docs.google.com/presentation/d/1A4anJ6fxnsKBakbk-NtOJ6eI_27kLCe0JFaa3U3tGc0/edit?usp=sharing)
