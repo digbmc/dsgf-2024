@@ -43,7 +43,7 @@ Note-taker: Jeff
 ### Action items
 
 ---
-[Next >>>](sessions/02-computational-thinking-command-line.md)
+[Next >>>](02-computational-thinking-command-line.md)
 
 [Return to syllabus](../syllabus.md)
 
