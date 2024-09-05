@@ -35,7 +35,7 @@ Digital Scholarship can take many forms. [Here's a brief overview](https://docs.
 
 ### Learning plans & SMART goals
 - What do you want to know? What do you want to create or develop?
-- SMART standards:
+- [SMART standards](/resources/smart-goals.md):
   - Specific: how will you work towards that goal?
   - Measurable: what can you do to measure your progress?
   - Actionable: break it down into individual tasks and pieces that you are able to accomplish on your own
