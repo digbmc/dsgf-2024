@@ -6,8 +6,8 @@ September 5, 2024
 - Introductions
 - Program overview and logistics
   - Overview of Github
-- Goals and learning plans
 - What is Digital Scholarship?
+- Goals and learning plans
 
 ## Meeting notes
 
@@ -33,7 +33,7 @@ Note-taker: Jeff
   - Yuzhu
 
 ### What is digital scholarship
-What is Digital Scholarship? [slides](http://bit.ly/dsgf-2019)
+Digital Scholarship can take many forms.[Here's a brief overview](https://docs.google.com/presentation/d/1A4anJ6fxnsKBakbk-NtOJ6eI_27kLCe0JFaa3U3tGc0/edit?usp=sharing)
 
 ### Learning plans & SMART goals
 - What do you want to know? What do you want to create or develop?
@@ -45,10 +45,10 @@ What is Digital Scholarship? [slides](http://bit.ly/dsgf-2019)
 
 ### Reminders & Actions Items
 
--Reminders
-  - [ ] Set up a meeting with Alice via [calendly](https://calendly.com/amcgrath1/) if you want help with learning plans & goals (out during fall break)
-  - [ ] Alice will set up Slack, send Zoom invites to future meetings, etc.
--Action Items
+- **Reminders**
+  - [ ] Set up a meeting with Alice or Jeff via [Zoom Scheduler](https://scheduler.zoom.us/digital-scholarship/dsgf-consultation-meeting) if you want help with learning plans & goals.
+  - [ ] Jeff will send Zoom invites to future meetings. Please check your mailbox for them.
+- **Action Items**
   - [ ] Brainstorm 3-4 goals and select the most relevant to draft a SMART goal
   - [ ] Watch all 6 [Code.org](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) videos on computers
   - [ ] Email us a bio and headshot for the [DS website](https://digitalscholarship.blogs.brynmawr.edu/people/)
