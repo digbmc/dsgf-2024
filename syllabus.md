@@ -15,12 +15,12 @@
 
 ## Session options
 
-### Introduction
+### [Introduction](sessions/01-introduction.md) - 2024.09.05
 - Overview of DSGF program & expectations
 - What is Digital Scholarship?
 - SMART goals & learning plans
 
-### Computational thinking
+### [Computational thinking](sessions/02-computation.md) - 2024.09.19
 - Basics of how computers work
 - Command line introduction
 

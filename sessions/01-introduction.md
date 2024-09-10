@@ -60,7 +60,7 @@ Digital Scholarship can take many forms. [Here's a brief overview](https://docs.
     - [ ] Text editor: [Visual Studio Code](https://code.visualstudio.com/download)
     - [ ] For a PC: install git bash [using these instructions](https://gitforwindows.org/)
 ---
-[Next >>>](02-computational-thinking-command-line.md)
+[Next >>>](02-computation.md)
 
 [Return to syllabus](../syllabus.md)
 
