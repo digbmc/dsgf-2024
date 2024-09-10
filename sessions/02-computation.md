@@ -18,6 +18,15 @@ Note-taker: Hilde
 
 ## Action items
 
+- [ ] Command line follow-up
+  - [ ] Finish going through the [Command Line Tutorial](https://digbmc.github.io/command-line/) & post any questions to Slack
+  - [ ] Optional: look at the other command line resources
+- [ ] Logs
+  - [ ] Create your log document: see [instructions](../logs/sample.md)
+  - [ ] Write up your SMART Goal(s) and add them to your log document
+  - [ ] Add a progress update to your log by Wednesday morning before our next session
+
+
 [<<< Previous](01-introduction.md) | [Next >>>]()
 
 [Return to syllabus](../syllabus.md)
