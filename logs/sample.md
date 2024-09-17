@@ -1,20 +1,29 @@
 # My Name
 
-DSGF Log 2021-2022
+DSGF Log 2024-2025
 
 ## Updates
 
-
-### 2022.10.19
+### 2024.10.19
 - What I've accomplished since our last meeting
 - Other updates to share with the team
 
+### 2024.09.20
+
+- What I've accomplished since our last meeting
+- Other updates to share with the team
 
 ## SMART Goal(s)
 
-Goal: 
+### Goal
 
-Action plan (including timeline and steps):
+A specific description of your goal using the [SMART framework](../resources/smart-goals.md)
+
+### Action plan
+
+- [ ] First milestone - due date
+- [ ] Second milestone - due date
+- [ ] Third milestone - due date
 
 ---
 
