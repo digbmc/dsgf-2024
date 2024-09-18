@@ -15,3 +15,7 @@ Illizt Castillo is a PhD student in the Classical and Near Eastern Archaeology d
 Lala St. Fleur is a 4th year graduate student in Bryn Mawr's Department of Classical and Near Eastern Archaeology. She received her B.A. in anthropology from Brooklyn College in 2018, with a concentration in Japanese archaeology, where she made her first digital humanities project: using ArcGIS to track links between natural disasters, Japanese archaeological sites, and Shinto-Buddhist architectural monuments. She received her M.A. in liberal studies from the City University of New York's Graduate Center in 2020, with a concentration in the archaeology of the Classical, Late Antique, and Islamic worlds; and her second M.A. in Classical Archaeology from Bryn Mawr in 2024. Lala's research goal as a Digital Scholarship Fellow is to map chthonic cult centers related to Greek myths about entrances to the underworld, Hades; either in ArcGIS, or a similar program.
 
 ## Yuzhu Wang
+
+<!--- ![Yuzhu Wang](../media/wang-y.jpg) --->
+
+Yuzhu is a graduate student in the Department of History of Art, focusing on Medieval Chinese religious and funerary art. She holds a BA in Archaeology from Renmin University of China (2015) and an MA in Art History from Tufts University (2019). Yuzhu is interested in how digital tools like 3D scanning and digital replication can bring artistic objects and spaces to life in immersive, interactive formats. She is also passionate about using these technologies in teaching to create more engaging and dynamic learning experiences.
