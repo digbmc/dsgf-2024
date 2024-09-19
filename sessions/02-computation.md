@@ -32,6 +32,9 @@ Note-taker: Hilde
   - [ ] Create your log document: see [instructions on the sample log](../logs/sample.md)
   - [ ] Write up your SMART Goal(s) and add them to your log document
   - [ ] Add a progress update to your log by Wednesday morning before our next session
+- [ ] General Reminders
+  - [ ] Set up a meeting with Alice or Jeff via [Zoom Scheduler](https://scheduler.zoom.us/digital-scholarship/dsgf-consultation-meeting) if you want help with learning plans & goals.
+
 
 
 [<<< Previous](01-introduction.md) | [Next >>>]()
