@@ -11,6 +11,8 @@ Led by Alice McGrath (Senior Digital Scholarship Specialist) and Jeff Hopkins (E
 - Resources
   - [SMART Goals](resources/smart-goals.md)
   - [Markdown Guide](resources/markdown-guide.md)
+  - [Digital Scholarship Project Planning Questions](resources/ds-project-planning.md)
+  - [Project Charter Template](resources/project-charter-template-ds.md)
 
 ## Session agendas and notes
 

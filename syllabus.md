@@ -82,3 +82,9 @@
 - Purpose of sites 
 
 
+## Resources
+
+- [SMART Goals](resources/smart-goals.md)
+- [Markdown Guide](resources/markdown-guide.md)
+- [Digital Scholarship Project Planning Questions](resources/ds-project-planning.md)
+- [Project Charter Template](resources/project-charter-template-ds.md)
