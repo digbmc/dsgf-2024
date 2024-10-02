@@ -5,23 +5,15 @@ DSGF Log 2024-2025
 ## Updates
 
 ### 2024.10.2
-- What I've accomplished since our last meeting
-- Other updates to share with the team
-
-### 2024.09.20
-
--  What I've accomplished since our last meeting:
+- What I've accomplished since our last meeting:
   
-    - Had a meeting with Bronwen at the Makerspace to learn about the 3D modelling equipment.
-          - I asked many questions and I believe I might be adding learning Illustrator to work more on the manipulation of mirror images.
-    - Reached out to Matt Jameson just to meet sometime to chat about his 3D modelling experience at the Special Collections. Maybe he can advise.
-          - Although we are in contact, we have yet to set an appointment later this week.
+    - Had a meeting with Bronwen at the Makerspace to learn about the 3D modelling equipment. I asked many questions and I believe I might be adding learning Illustrator to work more on the manipulation of mirror images.
+    - Reached out to Matt Jameson just to meet sometime to chat about his 3D modelling experience at the Special Collections. Maybe he can advise. Although we are in contact, we have yet to set an appointment later this week.
     - Reached out to Prof. Jie Shi to talk about his mirror project. We have yet to set a meeting, probably next week.
     - Created my Autodesk account
-    - Reached out to Prof. Hagan about UPenn 3D modelling projects. Field trip tomorrow to talk with a person that has knowledge of that.
+    - Reached out to Prof. Hagan to learn about 3D modelling projects at UPenn. Field trip, on October 3rd, to talk with a person that has knowledge of that.
     - Practiced Command Line
-    - 
-- Other updates to share with the team
+    
 
 ## SMART Goal(s)
 
