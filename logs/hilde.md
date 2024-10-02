@@ -6,13 +6,15 @@ DSGF Log 2024-2025
 
 ### 2024.10.01
 - Completed since last meeting:
+  
     - practiced Markdown
     - refamiliarized with GitHub
     - completed command line workshop
     - took a first pass reading through the AudiAnnotate instructions
 
 
-## SMART Goal(s)
+
+## SMART Goal
 
 My SMART goal for this program is to create a project through AudiAnnotate. I plan to annotate a short (<5 minute) video, providing a transcript and my own interpretive annotations.
 
