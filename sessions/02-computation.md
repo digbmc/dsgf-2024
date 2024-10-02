@@ -12,6 +12,33 @@ Note-taker: Hilde
 
 ### Updates & SMART Goals
 
+#### Illizt: producing 3D models of five mirror objects in Bryn Mawr Special Collections using photogrammetry and handheld/turntable 3D scanner
+  - creating models of spaces in SketchUp to place modeled objects in situ
+  - using 3D models, hoping to try to restitute the original color of the bronze
+  - has already begun initial steps of securing permissions and researching objects
+
+#### Yuzhu: learn a 3D modeling tool (e.g., Blender, Unity)
+  - would like to produce an interactive 3D model of section of cave temple
+  - potential issues: most available images fragmented and incomplete, wouldn’t be able to take photos on site
+
+#### Lala: learn a mapping software (e.g., GIS) and produce map of the underworld
+  - hoping to tie SMART goal to prelim exams; meeting with advisor to finalize next steps
+  - would like to include data visualization/story map
+  - would ideally like final project to be web-based
+
+#### Hilde: produce AudiAnnotate project with interpretive annotations
+  - one of the steps would be to learn to produce IIIF AV materials
+  - will likely produce something no longer than 5 minutes
+  - will consult the Internet Archive to see what is available
+
+Alice has added resources re: project charter to the GitHub
+
+### Command Line Workshop
+
+- learning the command line key to working with many research-based programs
+- worked through the command line workshop on Computational Thinking page
+- Lala flagged that the tutorial for Git bash is using older versions of the software, the Atom text editor link outdated
+
 ### How Computers Work
 
 ### Command line
