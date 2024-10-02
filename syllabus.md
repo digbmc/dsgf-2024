@@ -24,32 +24,46 @@
 - Basics of how computers work
 - Command line introduction
 
-### Markdown, Git, GitHub Pages
+Note-taker: Hilde
+
+### [Markdown, Git, GitHub Pages](sessions/03-github-pages.md)
 - Text encoding in Markdown
 - Versioning with Git
 - Web publishing with GitHub Pages
+
+Note-taker: Ilizt
 
 ### Web Development
 - HTML
 - CSS
 - How the internet works
 
+Note-taker: Lala
+
 ### Mapping & GIS
 - Understanding GIS data types
 - Tools and resources for mapping
+
+Note-taker: Yuzhu
 
 ### 3D Modeling & Scanning
 - 3D computer graphics basics
 - 3D scanning
 - 3D printing
 
+Note-taker: Hilde
+
 ### Digital Exhibits
 - Digital collections and metadata
 - Exhibit tools (Scalar, CollectionBuilder)
 
+Note-taker: Ilizt
+
 ### Project Management
 - Strategies and practices for long-term projects
 - Digital Scholarship project charters
+
+Note-taker: Lala
 
 ---
 

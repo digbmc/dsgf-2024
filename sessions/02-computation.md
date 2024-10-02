@@ -64,7 +64,7 @@ Alice has added resources re: project charter to the GitHub
 
 
 
-[<<< Previous](01-introduction.md) | [Next >>>]()
+[<<< Previous](01-introduction.md) | [Next >>>](03-github-pages.md)
 
 [Return to syllabus](../syllabus.md)
 
