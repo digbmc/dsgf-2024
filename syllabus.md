@@ -31,7 +31,7 @@ Note-taker: Hilde
 - Versioning with Git
 - Web publishing with GitHub Pages
 
-Note-taker: Ilizt
+Note-taker: Illizt
 
 ### Web Development
 - HTML
@@ -57,7 +57,7 @@ Note-taker: Hilde
 - Digital collections and metadata
 - Exhibit tools (Scalar, CollectionBuilder)
 
-Note-taker: Ilizt
+Note-taker: Illizt
 
 ### Project Management
 - Strategies and practices for long-term projects
