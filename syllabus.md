@@ -8,8 +8,8 @@
 | 2   | Computational thinking + start command line | 9/19/24 |
 | 3   | GitHub Pages                                | 10/3/24 |
 | 4   | HTML/CSS                                    | 10/24/24|
-| 5   | Mapping/GIS                                 | 11/7/24 |
-| 6   | 3D Scanning!                                | 11/21/24|
+| 5   | ~~Mapping/GIS~~  3D Scanning                | 11/7/24 |
+| 6   | ~~3D Scanning~~  Mapping/GIS                | ~~11/21/24~~ 12/5/24 |
 | 7   | Digital exhibits                            | 1/23/25 |
 | 8   | Project management                          | 2/6/25  |
 
@@ -26,7 +26,7 @@
 
 Note-taker: Hilde
 
-### [Markdown, Git, GitHub Pages](sessions/03-github-pages.md)
+### [Markdown, Git, GitHub Pages](sessions/03-github-pages.md) - 2024.10.03
 - Text encoding in Markdown
 - Versioning with Git
 - Web publishing with GitHub Pages
