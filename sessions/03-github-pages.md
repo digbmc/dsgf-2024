@@ -14,7 +14,6 @@ Note-taker: Illizt
 
 We started talking a about our SMART goals and it looks good, according to Alice. 
 
-
 ## Yuzhu
 Yuzhu started and had two goals. People are identifying primary goals and secondary goals. For Yuzhu is working on blender, scanning together.  
 
