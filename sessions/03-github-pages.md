@@ -157,7 +157,7 @@ Arch map online is a good start to get the data for her project. There is a hard
   - [ ] Watch 8 videos in [How the Internet Works](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7) series
   - [ ] Sign up for an account on Domain of One's Own: [digital.brynmawr.edu](https://digital.brynmawr.edu/)
 
-[<<< Previous](02-computation.md) | [Next >>>]()
+[<<< Previous](02-computation.md) | [Next >>>](04-web-dev.md)
 
 [Return to syllabus](../syllabus.md)
 
