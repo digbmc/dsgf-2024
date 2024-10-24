@@ -13,10 +13,10 @@ DSGF Log 2024-2025
     - took a first pass reading through the AudiAnnotate instructions
 
 ### 2024.10.24
--Unfortunately, I discovered that the entire Internet Archive is down. That being said, I was able to find a list of films in the public domain, and I think I would like to annotate short snippets from the 1962 film _Carnival of Souls_(dir. Herk Harvey)
--I was able to find a full-length version of the film on YouTube, which I believe is supported by AudiAnnotate. I will test this soon to make sure. 
+- Unfortunately, I discovered that the entire Internet Archive is down. That being said, I was able to find a list of films in the public domain, and I think I would like to annotate short snippets from the 1962 film _Carnival of Souls_(dir. Herk Harvey)
+- I was able to find a full-length version of the film on YouTube, which I believe is supported by AudiAnnotate. I will test this soon to make sure. 
 
--In terms of workshop related material, I worked on the GitHub Pages tutorial. I didn't do as much work with customizing the site as I would have liked, but I hope to do more after this week's review of HTML and CSS.__
+- In terms of workshop related material, I worked on the GitHub Pages tutorial. I didn't do as much work with customizing the site as I would have liked, but I hope to do more after this week's review of HTML and CSS.
 
 
 ## SMART Goal
