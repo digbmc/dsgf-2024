@@ -4,6 +4,14 @@ DSGF Log 2024-2025
 
 ## Updates
 
+### 2024.10.23
+- Finished the github workshop.
+- Downloaded github desktop, and cloned repositories to local, and started editing locally in VScode.
+- Watched 8 videos in How the Internet Works series.
+- Signed up for a domain (https://yuzhuwang.digital.brynmawr.edu/).
+- Watched Blender tutorial (30min/5hrs).
+- Practiced Blender controls and camera.
+
 ### 2024.10.02 
 
 - Finished the Command Line tutorials.
