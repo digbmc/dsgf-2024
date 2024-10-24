@@ -33,7 +33,7 @@ Note-taker: Hilde
 
 Note-taker: Illizt
 
-### Web Development
+### [Web Development](sessions/04-web-dev.md) - 2024.10.25
 - HTML
 - CSS
 - How the internet works
