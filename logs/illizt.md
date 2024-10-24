@@ -28,3 +28,15 @@ My SMART goal is to develop 3D models of two Etruscan mirrors from the Special C
 - [ ] Develop one complete 3D model of a mirror - November 15
 - [ ] Master Photogrammetry - December 15
 - [ ] Complete the 3D models of 2 mirrors - January
+
+
+## Updates
+
+### 2024.10.24
+- What I've accomplished since our last meeting:
+  
+    - Had a preliminary with Tessa to crack Illustrator for drawing images from mirrors
+    - Experimented with the Wacomm tablet. It seems the mouse is better for now
+    - Mastered Illustrator for drawing the designs  and developed two complete drawings and others for teaching the parts of mirrrors
+    - Experimented with laser printing on wood with the drawings
+    - Reviewed the GitHub pages tutorial and found some bumps in the road. I also noticed I need to expereiment more with it
