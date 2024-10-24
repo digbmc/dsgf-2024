@@ -1,5 +1,7 @@
 # Simple Static Site
 
+Use the [HTML & CSS Cheatsheet](html-css-handout.md) as a guide
+
 ## HTML - getting started
 
 1. Use command line to navigate to the folder where you're keeping your dsgf files  `cd`
