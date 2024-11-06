@@ -28,6 +28,7 @@ Note-taker: Illizt
 
 ## Action items
 - [ ] Continue updating logs
+- [ ] Link to today's presentation
 - [ ] Other
 
 [<<< Previous](03-github-pages.md) | [Next >>>]()
