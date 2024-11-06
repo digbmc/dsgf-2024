@@ -24,11 +24,10 @@ Note-taker: Illizt
 ### Final Points
 
 ### Next Session
-- We will be working on 3D Scanning
-- Session will likely be set up in the special collection room. More information to be shared.
+- We will be work on GIS and digital mapping.
 
 ## Action items
-- [ ] Continue updating logs as needed
+- [ ] Continue updating logs
 - [ ] Other
 
 [<<< Previous](03-github-pages.md) | [Next >>>]()
