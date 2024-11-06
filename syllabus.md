@@ -38,14 +38,14 @@ Note-taker: Illizt
 - CSS
 - How the internet works
 
-Note-taker: Lala
+Note-taker: Yuzhu
 
 ### [3D Scanning](sessions/05-3d-scanning.md) - 2024.11.7
 - 3D Scanning Technologies
 - 3D scanning practice
 - Sharing 3D scans
 
-Note-taker: Hilde
+Note-taker: Illizt
 
 ### Mapping & GIS
 - Understanding GIS data types
