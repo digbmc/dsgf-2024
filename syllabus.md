@@ -40,18 +40,18 @@ Note-taker: Illizt
 
 Note-taker: Lala
 
+### 3D Scanning
+- 3D Scanning Technologies
+- 3D scanning practice
+- Sharing 3D scans
+
+Note-taker: Hilde
+
 ### Mapping & GIS
 - Understanding GIS data types
 - Tools and resources for mapping
 
 Note-taker: Yuzhu
-
-### 3D Modeling & Scanning
-- 3D computer graphics basics
-- 3D scanning
-- 3D printing
-
-Note-taker: Hilde
 
 ### Digital Exhibits
 - Digital collections and metadata
