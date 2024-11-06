@@ -40,7 +40,7 @@ Note-taker: Illizt
 
 Note-taker: Lala
 
-### 3D Scanning
+### [3D Scanning](sessions/05-3d-scanning.md) - 2024.11.7
 - 3D Scanning Technologies
 - 3D scanning practice
 - Sharing 3D scans
