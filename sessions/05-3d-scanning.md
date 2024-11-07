@@ -4,7 +4,7 @@
 
 ## Agenda
 1. Updates on logs
-2. [Presentation and demo on 3D scanning](https://jhopkins1.digital.brynmawr.edu/reveal_presentations/3d-scanning-lesson.html#/5/1)
+2. [Presentation and demo on 3D scanning](https://jhopkins1.digital.brynmawr.edu/reveal_presentations/3d-scanning-lesson.html)
 3. Information on how to book a [3D printing session in the makerspace](https://www.brynmawr.edu/inside/offices-services/library-information-technology-services/about/spaces/makerspace)
 
 ### Business
