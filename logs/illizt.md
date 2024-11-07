@@ -40,3 +40,10 @@ My SMART goal is to develop 3D models of two Etruscan mirrors from the Special C
     - Mastered Illustrator for drawing the designs  and developed two complete drawings and others for teaching the parts of mirrrors
     - Experimented with laser printing on wood with the drawings
     - Reviewed the GitHub pages tutorial and found some bumps in the road. I also noticed I need to expereiment more with it
+
+### 2024.11.07
+- What I've accomplished since our last meeting:
+
+    - I experimented with the 3D modelling machine at the Maker Space and developed a model of a wooden pig.
+    - I 3D printed it
+    - I started going over the material of photogrammetry frorm Matt Jameson's class on ceramics: made notes, reviewed the process
