@@ -4,6 +4,12 @@ DSGF Log 2024-2025
 
 ## Updates
 
+### 2024.11.07
+- Keep learning Blender: watched the Blender tutorial (1.5/5hrs)
+- Learn about the 3D reconstruction software called Alicevision. Found a GitHub repository for the project.
+- Browsed the Bryn Mawr special collection, and narrowed down the potential scanning objects to three (one Buddha statue, a bronze vessel, and a bear figurine)
+- Updated the action plan
+
 ### 2024.10.23
 - Finished the github workshop.
 - Downloaded github desktop, and cloned repositories to local, and started editing locally in VScode.
@@ -33,9 +39,10 @@ For now, this will be a simplified, idealized cube diorama for practice.
 Review the Chinese ritual bronzes in the Special Collections and follow up with Prof. Jie Shi and Marianne for guidance and resources. 
 Draft the features that will be included in the project.
 
-- [ ] November 21: Learn all relevant features in Blender using online sources and by consulting Alice, Jeff, and peers. 
+- [ ] November 21: Learn all relevant features in Blender using online sources and by consulting Alice, Jeff, and peers.
 Select one object from the Special Collections to focus on. 
-Sketch the possible placement of the object.
+Do some more research about 3D reconstruction software and how to incorporate it together with Blender in my project.
+If decide to proceed with Alicevision, set up the project.
 
 - [ ] January 23: Complete scanning the selected object and decide how to incorporate it into a virtual space.
 
