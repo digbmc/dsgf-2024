@@ -15,7 +15,7 @@
 ## Meeting notes
 Note-taker: Illizt
 
-### History of 3D Scanning
+### History & Uses of 3D Scanning
 
 ### Demo Scans: Tardigrade & mini-lantern
 
@@ -24,7 +24,7 @@ Note-taker: Illizt
 ### Final Points
 
 ### Next Session
-- We will be work on GIS and digital mapping.
+- 12/5/24: We will learn about GIS and digital mapping with help from Tessa Eisen, EAST Digital Assistant
 
 ## Action items
 - [ ] Continue updating logs
