@@ -57,7 +57,7 @@ You need to have a good camera and move slowly taking pictures of the same space
 *Drones –work for spaces that are lit, for caves and so it would be different. 
 *There is a 3D scanning spray that can help you with the scanning; it does not distort light, but it cannot be used in cultural heritage.
 
-##DEMO
+## DEMO
 *Important: the scanner should be connected to the computer before opening the software because then the scanner is recognized by the software. 
 
 First time tutorial
