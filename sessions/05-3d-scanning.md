@@ -128,7 +128,7 @@ With a 3D model
 - [ ] Link to today's presentation
 - [ ] Other
 
-[<<< Previous](03-github-pages.md) | [Next >>>]()
+[<<< Previous](04-web-dev.md) | [Next >>>]()
 
 [Return to syllabus](../syllabus.md)
 
