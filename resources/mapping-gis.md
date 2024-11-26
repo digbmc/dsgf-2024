@@ -8,7 +8,7 @@
 - [QGIS](https://qgis.org/en/site/) - free and open-source GIS software used as an alternative to ArcGIS
 - [Storymaps JS](https://storymap.knightlab.com/) - Open-source eographic slideshow tool
 - [Leaflet JS](https://leafletjs.com/) - javascript library to create and customize maps within a website or browser
-- [Flourish](https://flourish.studio/) - Templates for customizable maps, slides, and stories with geographical data
+- [Flourish](https://flourish.studio/) - Templates for customizable maps, slides, and stories with geographical data (also includes other data visualization capabilities)
 
 ## Tutorials and Documentation
 
