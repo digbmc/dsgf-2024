@@ -58,7 +58,7 @@ Note-taker: Yuzhu
 - Digital collections and metadata
 - Exhibit tools (Scalar, CollectionBuilder)
 
-Note-taker: Illizt
+Note-taker: Hilde
 
 ### Project Management
 - Strategies and practices for long-term projects
