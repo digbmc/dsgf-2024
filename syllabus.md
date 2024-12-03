@@ -47,8 +47,9 @@ Note-taker: Yuzhu
 
 Note-taker: Illizt
 
-### Mapping & GIS
+### [Mapping & GIS](sessions/06-mapping.md)
 - Understanding GIS data types
+- Creating and deploying a webmap using QGIS
 - Tools and resources for mapping
 
 Note-taker: Yuzhu
