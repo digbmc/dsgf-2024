@@ -4,8 +4,10 @@
 
 ## Agenda
 1. Updates and announcements
-2. Instruction topic
-3. Other
+   -Illizt: She has been working on growing her photogrammetry skills by doing a session with Marianne Weldon in Special Collections. She's done multiple photography circuits on the object, but has been unable to process them via the Agisoft software. She's also tried scanning 3D scanning.
+   -Yuzhu: 
+3. Instruction topic
+4. Other
 
 ## Meeting notes
 Note-taker: Name
