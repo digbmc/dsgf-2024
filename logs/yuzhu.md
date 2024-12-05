@@ -3,6 +3,9 @@
 DSGF Log 2024-2025
 
 ## Updates
+### 2024.12.05
+- Continue learning Blender using the Youtube tutorial: currently at the beginning of Part 5 (Shading)
+- Made a basic donut in Blender
 
 ### 2024.11.07
 - Keep learning Blender: watched the Blender tutorial (1.5/5hrs)
