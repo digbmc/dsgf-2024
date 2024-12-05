@@ -28,10 +28,10 @@ DSGF Log 2024-2025
 - To extend the point above, I think I'm going to want to budget more time for customizing the site and adding further pages (as in, how can I think about the appearance of the site as aesthetically aligned with the thematic goals of the site? Do I want the interpretive analysis to live as a separate essay? Is there an opportunity to bring in screenshots of individual frames, especially if they can be IIIF images themselves?)
 
 ### 2024.12.05
--I will be frank and say that I haven't had much time to focus on this project recently, but I plan to carve out some hours this next week to work on it in earnest.
--I did double check the AudiAnnotate tutorial, and I think I might have figured out what the problem with my manifest is. The instructions say that the URL should be a direct link to the audiovisual material, since it's intended for material from institutions, and I think the YouTube link, as a result, isn't compatible. 
--As a solution, I am going to try and screenrecord short clips (which is what I was going to focus on anyway, two short clips of about 3-5 minutes) and turn them into direct links using the Internet Archive, which is back up. I'm a little unsure about relying on the Internet Archive at this point, given its ongoing legal woes, but I suppose this way, I'll always have the .mov file on my computer as a back-up. 
--Because I'm now a little behind my original SMART goal, I'll plan on posting an update once I've successfully gotten the manifest to generate and started adding annotations.
+- I will be frank and say that I haven't had much time to focus on this project recently, but I plan to carve out some hours this next week to work on it in earnest.
+- I did double check the AudiAnnotate tutorial, and I think I might have figured out what the problem with my manifest is. The instructions say that the URL should be a direct link to the audiovisual material, since it's intended for material from institutions, and I think the YouTube link, as a result, isn't compatible. 
+- As a solution, I am going to try and screenrecord short clips (which is what I was going to focus on anyway, two short clips of about 3-5 minutes) and turn them into direct links using the Internet Archive, which is back up. I'm a little unsure about relying on the Internet Archive at this point, given its ongoing legal woes, but I suppose this way, I'll always have the .mov file on my computer as a back-up. 
+- Because I'm now a little behind my original SMART goal, I'll plan on posting an update once I've successfully gotten the manifest to generate and started adding annotations.
 
 
 ## SMART Goal
