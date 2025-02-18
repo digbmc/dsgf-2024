@@ -16,7 +16,7 @@ Note-taker: Hilde
 
 ### Digital Exhibits
 
-- Slides: [Digital Exhibits]
+- Slides: [Digital Exhibits](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/EaklqJJapcNPhgpTP4VrA6ABApiZe4xam6xnvpmjZL12kA?e=LH5Hm0)
 - Exhibit.so activity
 
 ## Action items
