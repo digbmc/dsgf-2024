@@ -54,7 +54,7 @@ Note-taker: Illizt
 
 Note-taker: Yuzhu
 
-### Digital Exhibits
+### [Digital Exhibits](sessions/07-exhibits.md)
 - Digital collections and metadata
 - Exhibit tools (Scalar, CollectionBuilder)
 
