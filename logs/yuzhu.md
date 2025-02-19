@@ -3,6 +3,15 @@
 DSGF Log 2024-2025
 
 ## Updates
+
+### 2025.2.19
+- Completed the Blender Guru Donut Tutorial (14 videos).
+- Created a plate of donuts with a full setting, including the background and lighting.
+- Rendered still images and an animation of the set.
+- Exploring the possibility of integrating AI modeling to streamline the process. Tested Rodin (Gen 1.5) for AI-generated base models—results were promising.
+- Tentative plan: I am considering rendering a decorated sarcophagus I previously researched. This would serve as a demonstration of AI-assisted 3D modeling for art historical use.
+- Updated the action plan.
+
 ### 2024.12.05
 - Continue learning Blender using the Youtube tutorial: currently at the beginning of Part 5 (Shading)
 - Made a basic donut in Blender
@@ -11,7 +20,7 @@ DSGF Log 2024-2025
 - Keep learning Blender: watched the Blender tutorial (1.5/5hrs)
 - Learn about the 3D reconstruction software called Alicevision. Found a GitHub repository for the project.
 - Browsed the Bryn Mawr special collection, and narrowed down the potential scanning objects to three (one Buddha statue, a bronze vessel, and a bear figurine)
-- Updated the action plan
+- Updated the action plan.
 
 ### 2024.10.23
 - Finished the github workshop.
@@ -47,6 +56,8 @@ Select one object from the Special Collections to focus on.
 Do some more research about 3D reconstruction software and how to incorporate it together with Blender in my project.
 If decide to proceed with Alicevision, set up the project.
 
-- [ ] January 23: Complete scanning the selected object and decide how to incorporate it into a virtual space.
+- [ ] February 28: Generate an initial 3D model of the proposed sarcophagus using AI-assisted modeling. Import the model into Blender and begin refining its structure.
 
-- [ ] February 27: Place the object within the designed virtual space using the model created in Blender.
+- [ ] March 15: Complete the refinement phase, ensuring the model’s proportions and form are accurate. Add key incised decorations and other necessary details.
+
+- [ ] March 31: Finalize the model with lighting adjustments and render both still images and animations. Document the entire process with notes and reflections for the showcase and future reference.
