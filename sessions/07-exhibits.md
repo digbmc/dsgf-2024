@@ -16,8 +16,11 @@ Note-taker: Hilde
 
 ### Digital Exhibits
 
-- Slides: [Digital Exhibits](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/EaklqJJapcNPhgpTP4VrA6ABApiZe4xam6xnvpmjZL12kA?e=LH5Hm0)
-- Exhibit.so activity
+- Slides: [Digital Exhibits](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/EfBEJXDGBFBJtRgTB8CTeRQBeW0k-_wvdNJ9bBGZ8D74sw?e=ZeTN7W)
+- [Exhibit.so](https://www.exhibit.so/) activity
+- Resources:
+  - Exhibit [documentation](https://www.exhibit.so/docs)
+  - Finding [IIIF collections guide](https://iiif.io/guides/finding_resources/)
 
 ## Action items
 - [ ] Add your updates by Monday morning
