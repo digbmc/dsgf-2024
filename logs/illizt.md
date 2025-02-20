@@ -53,3 +53,10 @@ My SMART goal is to develop 3D models of two Etruscan mirrors from the Special C
 
     - I finally did the photo shoot of one mirror at the Special Collections and used the 3D scanner to "develop" the 3D model. However, I encountered many setbacks.
     - I still have to process the images and asses the problems I am having with the 3D scanner. 
+
+### 2024.2.19
+- What I've accomplished since our last meeting:
+
+    - I finished the Workflow for Photogrammetry.
+    - I have a 3D model and a mesh, but they are imperfect.
+    - The next step is to keep trying and try with another set of photographs. 
