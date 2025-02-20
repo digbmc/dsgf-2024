@@ -33,6 +33,11 @@ DSGF Log 2024-2025
 - As a solution, I am going to try and screenrecord short clips (which is what I was going to focus on anyway, two short clips of about 3-5 minutes) and turn them into direct links using the Internet Archive, which is back up. I'm a little unsure about relying on the Internet Archive at this point, given its ongoing legal woes, but I suppose this way, I'll always have the .mov file on my computer as a back-up. 
 - Because I'm now a little behind my original SMART goal, I'll plan on posting an update once I've successfully gotten the manifest to generate and started adding annotations.
 
+### 2025.02.20
+- I did not get as much work done on this project as I planned to over the break, and I want to be more deliberate about scheduling time to work on this project.
+- I was able to screen-record a clip from the film, but when I went to generate the GitHub through AudiAnnotate, the application wouldn't load. It appears that the program is not being maintained, so I will likely need to turn to another platform. Alice kindly shared some resources, and I'm going to look into the Europeana Video Player/Editor, which seems to have a similar AV annotation function.
+- Though I didn't do as much on the project as I'd hoped, I do think I was able to make some conceptual progess. I've been working on the Paul Thomas Annotated project, which not only has given me a bit of a review on IIIFs, but because that project involves annotating still images from films, it's prompted me to think about what is useful when annotating a still vs. moving image (e.g., a tool like Europeana will allow me to discuss camera movement, thematic strains unfolding in a scene, etc.). I will bring these insights into the structuring and writing of my annotations.
+
 
 ## SMART Goal
 
