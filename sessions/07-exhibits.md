@@ -21,13 +21,16 @@ Note-taker: Hilde
 
 ### Digital Exhibits
 
-- Slides: [Digital Exhibits](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/EaklqJJapcNPhgpTP4VrA6ABApiZe4xam6xnvpmjZL12kA?e=LH5Hm0)
-  - Digital exhibitions as digital collections, narratives, or criticisms that utilize media objects and/or resources
+- Slides: [Digital Exhibits](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/EfBEJXDGBFBJtRgTB8CTeRQBeW0k-_wvdNJ9bBGZ8D74sw?e=ZeTN7W)
+- Digital exhibitions as digital collections, narratives, or criticisms that utilize media objects and/or resources
     - E.g., the Colored Conventions Project and its use of Omeka to manage the data
     - Digital exhibitions usually allow you to display the media in a viewer and see its metadata. They also often support interactive features (including timelines, maps, annotations, visualizations, etc.)
     - Platforms include Omeka, CollectionBuilder, Scalar, WordPress, and Exhibit.so. Static site builders include Jekyll and Wax, and other narrative tools include Juncture, ESRI StoryMaps, StoryMap JS, and Timeline JS. 
       - Some of these platforms, including Exhibit.so, require IIIF images (IIIF = International Image Interoperability Framework). IIIF images allow you to track metadata, obtain high-res resolutions, add annotations, etc. utilizing manifests. 
-- Exhibit.so activity
+- [Exhibit.so](https://www.exhibit.so/) activity
+  - Resources:
+    - Exhibit [documentation](https://www.exhibit.so/docs)
+    - Finding [IIIF collections guide](https://iiif.io/guides/finding_resources/)
 
 ## Action items
 - [ ] Add your updates by Monday morning
