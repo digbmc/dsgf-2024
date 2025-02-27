@@ -18,7 +18,18 @@ Note-taker: Illizt
   - Showcase is schedule for 4/14 from 4:30 to 6 PM. Location is still to be determined. Alice has sent out an invite in Outlook Calendar. Please accept if you haven't.
 
 ### Instruction topic
-[Intro to Project Management](https://brynmawr-my.sharepoint.com/:p:/g/personal/jhopkins1_brynmawr_edu/EQ0X19weguRPvp-Q_dsi1SMBjWUcWK9FCXwySdVsT00ExQ?e=rAM4wl)
+- [Intro to Project Management](https://brynmawr-my.sharepoint.com/:p:/g/personal/jhopkins1_brynmawr_edu/EQ0X19weguRPvp-Q_dsi1SMBjWUcWK9FCXwySdVsT00ExQ?e=rAM4wl)
+- There are three main project management techniques
+  - Waterfall/Traditional
+  - Agile/Iterative
+  - Backwards/Reverse
+- Regardless of techniques, there are common steps:
+  1. Interviewing stakeholders
+  2. Create a work plan or charter. A blank version of the project charters EAST uses are [here](https://brynmawr.sharepoint.com/:w:/s/EAST-Dev-AskAthenaStyleGuide2/ETtDMTDEhVdPhe1sYwdKrNUBcE3eJitdplpLGWZmT-3C1Q?e=MwW3ce)
+  3. Plan your steps​
+  4. Delegate Tasks
+  5. Landing the Plane (i.e., prepare a smooth hand-off for whoever may next need to work on this project).
+- Time for fewllows to work on project charters covering the remainder of their projects for the year. 
 
 ## Action items
 - [ ] Accept Alice's invite in Outlook Calendar to the showcase on 4/14
