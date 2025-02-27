@@ -64,7 +64,7 @@ Note-taker: Hilde
 - Strategies and practices for long-term projects
 - Digital Scholarship project charters
 
-Note-taker: Lala
+Note-taker: Illizt
 
 ---
 
